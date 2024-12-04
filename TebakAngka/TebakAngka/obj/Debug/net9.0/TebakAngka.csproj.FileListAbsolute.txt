@@ -1,0 +1,14 @@
+D:\projek c#\TebakAngka\TebakAngka\bin\Debug\net9.0\TebakAngka.exe
+D:\projek c#\TebakAngka\TebakAngka\bin\Debug\net9.0\TebakAngka.deps.json
+D:\projek c#\TebakAngka\TebakAngka\bin\Debug\net9.0\TebakAngka.runtimeconfig.json
+D:\projek c#\TebakAngka\TebakAngka\bin\Debug\net9.0\TebakAngka.dll
+D:\projek c#\TebakAngka\TebakAngka\bin\Debug\net9.0\TebakAngka.pdb
+D:\projek c#\TebakAngka\TebakAngka\obj\Debug\net9.0\TebakAngka.GeneratedMSBuildEditorConfig.editorconfig
+D:\projek c#\TebakAngka\TebakAngka\obj\Debug\net9.0\TebakAngka.AssemblyInfoInputs.cache
+D:\projek c#\TebakAngka\TebakAngka\obj\Debug\net9.0\TebakAngka.AssemblyInfo.cs
+D:\projek c#\TebakAngka\TebakAngka\obj\Debug\net9.0\TebakAngka.csproj.CoreCompileInputs.cache
+D:\projek c#\TebakAngka\TebakAngka\obj\Debug\net9.0\TebakAngka.dll
+D:\projek c#\TebakAngka\TebakAngka\obj\Debug\net9.0\refint\TebakAngka.dll
+D:\projek c#\TebakAngka\TebakAngka\obj\Debug\net9.0\TebakAngka.pdb
+D:\projek c#\TebakAngka\TebakAngka\obj\Debug\net9.0\TebakAngka.genruntimeconfig.cache
+D:\projek c#\TebakAngka\TebakAngka\obj\Debug\net9.0\ref\TebakAngka.dll
